@@ -1,1 +1,1 @@
-# binary-lens-system
+# binary-lens-curves
